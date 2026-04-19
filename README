@@ -1,28 +1,7 @@
-Project Overview
-This project proposes a Player Fatigue Risk Index (PFRI) designed to support workload management and injury-prevention decisions within a professional sports organization. The idea integrates game load, practice intensity, and recovery indicators into a single, interpretable score that flags elevated fatigue risk before performance declines or injuries occur.
-Rather than introducing a new complex model, this project focuses on how analytics ideas are documented, refined, and evaluated for organizational adoption using GitHub as a collaboration and innovation management tool.
-
-Decision-Making Problem
-Coaches and performance staff frequently face uncertainty when deciding:
-- Whether to rest or limit a player 
-- How to adjust training intensity 
-- When accumulated fatigue may increase injury risk 
-These decisions are often made using fragmented data sources or intuition. The PFRI aims to consolidate relevant information into a single decision-support signal.
-
-Proposed Analytics Approach
-The proposed metric would combine:
-- Game minutes or snaps played 
-- Practice workload data (e.g., GPS distance, intensity) 
-- Recovery indicators (e.g., days of rest, travel schedule) 
-The analysis would normalize these inputs and generate a rolling fatigue score updated throughout the season. No technical implementation is required at this stage.
-
-Use by Decision Makers
-- Coaches would view a simple dashboard showing fatigue risk tiers (low, moderate, high). 
-- Performance staff could use the score to recommend modified workloads. 
-- Front office executives could monitor long-term trends to inform roster depth and scheduling strategies. 
-
-Connection to Chapter 7
-This project currently sits in the Creative Phase of the analytics innovation framework. The idea has been clearly articulated, aligned to a decision-making problem, and documented, but it has not yet been tested, refined, or validated through stakeholder engagement.
-
-
+Prototype Enhancement
+- The prototype enhancement proposes adding contextual game intensity weighting to the Player Fatigue Risk Index.
+What Is Being Changed
+- Instead of treating all game minutes equally, minutes played in high-intensity situations (e.g., overtime, short rest games, high-leverage matchups) would receive greater weight in the fatigue calculation.
+Why This Improves Decision-Making
+-This refinement better reflects the true physiological and mental load on players, allowing staff to distinguish between “quiet” playing time and high-stress workloads that accelerate fatigue and injury risk.
 
