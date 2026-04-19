@@ -5,3 +5,13 @@ What Is Being Changed
 Why This Improves Decision-Making
 -This refinement better reflects the true physiological and mental load on players, allowing staff to distinguish between “quiet” playing time and high-stress workloads that accelerate fatigue and injury risk.
 
+
+Reflection on Innovation and Version Control
+- GitHub branches support low-risk experimentation by allowing analytics teams to explore enhancements without disrupting stable ideas already shared with stakeholders. This mirrors how organizations test concepts before committing resources.
+- GitHub also helps analytics ideas gain traction by creating transparency, documentation, and a clear history of iteration—making it easier for decision makers to understand how and why an idea evolved.
+- In General, this workflow closely aligns with Alamar (2024) Chapter 7 on innovation framework by supporting the creative, prototyping, engagement, and build phases in a structured, collaborative, and adoption-focused manner.
+
+References
+Alamar, B. C. (2024). Sports analytics: A guide for coaches, managers, and other decision
+makers. Columbia University Press.
+
